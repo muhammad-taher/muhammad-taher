@@ -1,10 +1,6 @@
 # Hi there, I'm Taher
 
 > **Securing systems through low-level programming and relentless problem-solving.**
-
-Computer Science student at MBSTU passionate about cybersecurity, systems programming, and problem-solving.
-Focused on offensive & defensive security, building high-performance tools while improving through competitive programming.
-
 ### 🔭 Interested in 
 * **CTF:** Active participant in Capture The Flag (CTF) competitions with interests in web exploitation, digital forensics.
 * **Problem Solving:** Practicing data structures & algorithms through competitive programming to write efficient, optimized code. Solved ~500 problems across platforms.
